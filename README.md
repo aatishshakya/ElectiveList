@@ -1,0 +1,2 @@
+# ElectiveList
+this is an webapplication which is used to add, edit,update, delete and display the list of students of pulchowk campus taking different elective subjects and teacher associated with the particular subject. The main objective of this project is to implement the theoretical knowledge of sql database into practice. The tools that we are using in this project is node/express for backend ejs engine for frontend and mysql for database.
